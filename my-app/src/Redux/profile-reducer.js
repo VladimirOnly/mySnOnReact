@@ -2,12 +2,10 @@ const ADD_POST = 'ADD-POST';
 const UPDATE_NEW_POST_TEXT = 'UPDATE-NEW-POST-TEXT';
 
 let initialState = {
-    profilePage: {
         posts: [
             {id: 1, message: 'Hi, how are you?', likesCount: 12},
             {id: 2, message: 'Its my first post', likesCount: 11}],
         newPostText: 'YO YO, New!'
-    },
 };
 
 const profileReducer = (state = initialState, action) => {
@@ -15,14 +13,14 @@ const profileReducer = (state = initialState, action) => {
         case ADD_POST:
             let newPost = {
                 id: 5,
-                message: state.profilePage.newPostText,
+                message: state.newPostText,
                 likesCount: 0
             };
-            state.profilePage.posts.push(newPost);
-            state.profilePage.newPostText = '';
+            state.posts.push(newPost);
+            state.newPostText = '';
             return state;
         case UPDATE_NEW_POST_TEXT:
-            state.profilePage.newPostText = action.newText;
+            state.newPostText = action.newText;
             return state;
         default:
             return state;
