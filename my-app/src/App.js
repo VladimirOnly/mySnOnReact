@@ -10,6 +10,7 @@ import Setting from "./components/Setting/Setting";
 import NewMsg from "./components/Dialogs/Message/NewMessage/newMsg";
 import DialogsContainer from "./components/Dialogs/DIalogsContainer";
 import MyOwn from "./components/MyOwn/MyOwn";
+import UsersContainer from "./components/Users/UsersContainer";
 
 const App = () => {
     return (
@@ -27,6 +28,9 @@ const App = () => {
                     <Route path='/dialogs' component={NewMsg}/>
 
                     <Route path='/myOwn' component={MyOwn}/>
+
+                    <Route path='/users' component={UsersContainer}/>
+
                     {/*<Profile/>*/}
                     {/*<Dialogs/>*/}
                 </div>
