@@ -10,8 +10,8 @@ const MyPosts = (props) => {
     let newPostElement = React.createRef();
 
     let onAddPost = (values) => {
-       props.addPost(values.newPostText);
-     props.valueOf(values.newPostText = '')
+        props.addPost(values.newPostText);
+        props.valueOf(values.newPostText = '')
 
     }
 
