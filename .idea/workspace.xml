@@ -1,13 +1,319 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3201102-f03a-45eb-92ac-a30dcc62af28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a3201102-f03a-45eb-92ac-a30dcc62af28" name="Default Changelist" comment="MyFirst">
+      <change afterPath="$PROJECT_DIR$/my-app/src/data/img/icon-user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/data/img/preloader.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/data/img/userImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/AsyncGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/AwaitValue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/applyDecoratedDescriptor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/arrayLikeToArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/arrayWithHoles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/assertThisInitialized.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncGeneratorDelegate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncIterator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncToGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/awaitAsyncGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classCallCheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classNameTDZError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateFieldDestructureSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateFieldGet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateFieldLooseBase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateFieldLooseKey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateFieldSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateMethodGet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateMethodSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classStaticPrivateFieldSpecGet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classStaticPrivateFieldSpecSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classStaticPrivateMethodGet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classStaticPrivateMethodSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/construct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/createClass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/createForOfIteratorHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/createForOfIteratorHelperLoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/createSuper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/decorate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/defineEnumerableProperties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/defineProperty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/AsyncGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/AwaitValue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/applyDecoratedDescriptor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncGeneratorDelegate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncIterator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/awaitAsyncGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classCallCheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classNameTDZError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldDestructureSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldGet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldLooseBase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldLooseKey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateMethodGet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateMethodSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classStaticPrivateFieldSpecGet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classStaticPrivateFieldSpecSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classStaticPrivateMethodGet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classStaticPrivateMethodSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/construct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/createClass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelperLoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/createSuper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/decorate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/defineEnumerableProperties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/defineProperty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/extends.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/get.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/inherits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/initializerDefineProperty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/initializerWarningHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/instanceof.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/interopRequireDefault.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/interopRequireWildcard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/isNativeFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/isNativeReflectConstruct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/iterableToArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimitLoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/jsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/maybeArrayLike.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/newArrowCheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/objectDestructuringEmpty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/objectSpread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/objectSpread2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/readOnlyError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/set.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/skipFirstGeneratorNext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/slicedToArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/slicedToArrayLoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/superPropBase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteralLoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/tdz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/temporalRef.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/temporalUndefined.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/toArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/toConsumableArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/toPrimitive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/toPropertyKey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/typeof.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/wrapAsyncGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/wrapNativeSuper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/wrapRegExp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/extends.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/get.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/getPrototypeOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/inherits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/inheritsLoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/initializerDefineProperty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/initializerWarningHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/instanceof.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/interopRequireDefault.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/interopRequireWildcard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/isNativeFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/isNativeReflectConstruct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/iterableToArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/iterableToArrayLimitLoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/jsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/maybeArrayLike.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/newArrowCheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/nonIterableRest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/nonIterableSpread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/objectDestructuringEmpty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/objectSpread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/objectSpread2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/objectWithoutProperties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/readOnlyError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/set.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/setPrototypeOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/skipFirstGeneratorNext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/slicedToArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/slicedToArrayLoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/superPropBase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/taggedTemplateLiteralLoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/tdz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/temporalRef.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/temporalUndefined.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/toArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/toConsumableArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/toPrimitive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/toPropertyKey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/typeof.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/wrapAsyncGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/wrapNativeSuper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/wrapRegExp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/regenerator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hoist-non-react-statics/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hoist-non-react-statics/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hoist-non-react-statics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hoist-non-react-statics/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/hoist-non-react-statics/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/loose-envify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/replace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/object-assign/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/object-assign/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/object-assign/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/object-assign/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prop-types/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prop-types/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prop-types/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prop-types/checkPropTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prop-types/factory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prop-types/factoryWithThrowingShims.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prop-types/factoryWithTypeCheckers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prop-types/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prop-types/lib/ReactPropTypesSecret.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prop-types/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prop-types/prop-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/prop-types/prop-types.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-is/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-is/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-is/build-info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-is/cjs/react-is.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-is/cjs/react-is.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-is/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-is/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-is/umd/react-is.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-is/umd/react-is.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/dist/react-redux.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/dist/react-redux.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/alternate-renderers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/components/Context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/components/Provider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/components/connectAdvanced.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/connect/connect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/connect/mapDispatchToProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/connect/mapStateToProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/connect/mergeProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/connect/selectorFactory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/connect/verifySubselectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/connect/wrapMapToProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/hooks/useDispatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/hooks/useReduxContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/hooks/useSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/hooks/useStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/utils/Subscription.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/utils/batch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/utils/isPlainObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/utils/reactBatchedUpdates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/utils/reactBatchedUpdates.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/utils/shallowEqual.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/utils/useIsomorphicLayoutEffect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/utils/useIsomorphicLayoutEffect.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/utils/verifyPlainObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/utils/warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/es/utils/wrapActionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/alternate-renderers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/components/Context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/components/Provider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/components/connectAdvanced.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/connect/connect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/connect/mapDispatchToProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/connect/mapStateToProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/connect/mergeProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/connect/selectorFactory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/connect/verifySubselectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/connect/wrapMapToProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/hooks/useDispatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/hooks/useReduxContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/hooks/useSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/hooks/useStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/utils/Subscription.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/utils/batch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/utils/isPlainObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/utils/reactBatchedUpdates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/utils/reactBatchedUpdates.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/utils/shallowEqual.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/utils/useIsomorphicLayoutEffect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/utils/useIsomorphicLayoutEffect.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/utils/verifyPlainObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/utils/warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/utils/wrapActionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/alternate-renderers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/components/Context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/components/Provider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/components/connectAdvanced.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/connect/connect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/connect/mapDispatchToProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/connect/mapStateToProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/connect/mergeProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/connect/selectorFactory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/connect/verifySubselectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/connect/wrapMapToProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/hooks/useDispatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/hooks/useReduxContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/hooks/useSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/hooks/useStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/utils/Subscription.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/utils/batch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/utils/isPlainObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/utils/reactBatchedUpdates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/utils/reactBatchedUpdates.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/utils/shallowEqual.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/utils/useIsomorphicLayoutEffect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/utils/useIsomorphicLayoutEffect.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/utils/verifyPlainObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/utils/warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/src/utils/wrapActionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/regenerator-runtime/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/regenerator-runtime/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/regenerator-runtime/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/regenerator-runtime/path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/regenerator-runtime/runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,57 +321,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-app/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-app/src/components/Users/Users.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/MyPostsContainer.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/my-app/src/components/Profile/MyPosts/MyPosts.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,12 +332,16 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="497" />
     <option name="y" value="63" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectId" id="2DD1C6jk263pO4LjMmGeHOehi7u" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -148,27 +407,20 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Vladimir/OneDrive/javascript/mySnOnReact",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -189,7 +441,16 @@
       <workItem from="1660139844191" duration="1759000" />
       <workItem from="1660141655316" duration="1533000" />
       <workItem from="1660143466467" duration="1836000" />
+      <workItem from="1660218725376" duration="4401000" />
     </task>
+    <task id="LOCAL-00001" summary="MyFirst">
+      <created>1660218920133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660218920133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -232,7 +493,22 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MyFirst" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyFirst" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">

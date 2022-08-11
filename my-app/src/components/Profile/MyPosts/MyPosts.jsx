@@ -11,7 +11,7 @@ const MyPosts = (props) => {
 
     let onAddPost = (values) => {
        props.addPost(values.newPostText);
-       props.addPost(values.newPostText = '');
+     props.valueOf(values.newPostText = '')
 
     }
 
